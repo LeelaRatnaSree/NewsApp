@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "abc-news-au", "name": "ABC News (AU)" },
+      "author": "Lexy Hamilton-Smith",
+      "title": "Growing calls for student HECS-HELP loan indexation to be abolished as inflation sends debts soaring",
+      "description": "A growing chorus of university graduates is calling for an overhaul of the HECS-HELP debt system, as loan amounts balloon due to high inflation.",
+      "url": "http://www.abc.net.au/news/2023-04-03/student-debt-rising-hecs-help-indexing/102125582",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/00a208d4544e5179cb5d74b38ddcd5d9?impolicy=wcms_crop_resize&cropH=1692&cropW=3008&xPos=0&yPos=111&width=862&height=485",
+      "publishedAt": "2023-04-02T19:38:43Z",
+      "content": "Brisbane wealth adviser Alanna Fraser has been battling to pay off a university student debt of $102,000.\r\nKey points:\r\n<ul><li>The National Union of Students says the federal government is profiting… [+8803 chars]"
+    },
+    {
+      "source": { "id": "financial-post", "name": "Financial Post" },
+      "author": "Financial Post",
+      "title": "Financial Post",
+      "description": "Latest news on the economic system, inflation, gross domestic product (GDP), national debts and financial news, as well as coverage for health care, the sector plus more.",
+      "url": "http://business.financialpost.com/category/news/economy/",
+      "urlToImage": "https://dcs-static.gprod.postmedia.digital/12.2.3/websites/images/postmedia-image-fallback.png",
+      "publishedAt": "2022-11-13T00:37:37.9889068Z",
+      "content": null
+    },
+    {
+      "source": { "id": "mtv-news", "name": "MTV News" },
+      "author": "Athena Serrano",
+      "title": "BTS Will Tell 'A Story Of Our Music' In Disney+ Docuseries and Concert Special",
+      "description": "The series will show fans a more 'personal side' of the band's members",
+      "url": "http://www.mtv.com/news/3188524/bts-disney-plus-specials-announcement/",
+      "urlToImage": "https://mtv.mtvnimages.com/uri/mgid:ao:image:mtv.com:702443?quality=0.8&format=jpg&width=1440&height=810&.jpg",
+      "publishedAt": "2022-07-13T14:38:03Z",
+      "content": "The boys of BTS are giving you Permission to Dance on stage with them on their upcoming new Disney+ specials.\r\nThe sensational pop group will star in exclusive shows on the streaming platform followi… [+2555 chars]"
+    },
+    {
+      "source": { "id": "crypto-coins-news", "name": "Crypto Coins News" },
+      "author": null,
+      "title": "Bill Burr Is Harassed by the BTS Army &#8211; Here&#8217;s Why He&#8217;ll Be Fine",
+      "description": null,
+      "url": "https://www.ccn.com/bill-burr-is-harassed-by-the-bts-army-heres-why-hell-be-fine/",
+      "urlToImage": null,
+      "publishedAt": "2021-03-15T19:37:05.5779289Z",
+      "content": "<ul><li>The cancel mob doesnt sleep. They showed it last night on Twitter when they went after comedian Bill Burr.</li><li>Burr couldnt pronounce a Mexican artists name and made a joke about it. Soon… [+5551 chars]"
+    }
+  ]
+}
